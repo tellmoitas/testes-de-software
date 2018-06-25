@@ -6,7 +6,10 @@ Analise da percentual da cobertura de testes em função dos requisitos definido
 
 ## Cobertura de Testes Baseada em Códigos
 
-Análise percentual da cobertura de códigos com relação as linhas de código
+Análise percentual da quantidade de códigos executados e da quantidade de código pendente
+
+* Baseado em fluxo de controle (caminhos)
+* Baseado em Fluxo de dados (estados)
 
 ### Testes planejados
 ### Testes implementados
@@ -15,7 +18,11 @@ Análise percentual da cobertura de códigos com relação as linhas de código
 
 # Análise de Defeitos
 
-## Relatório de Defeitos
+## Relatório de Defeitos conforme Processo Unificado
+
+* Relatórios de distribuição de defeitos (densidade)
+* Relatórios de tendência de defeitos
+* Relatórios de resultados e progresso de teste
 
 ### Status
 
@@ -26,7 +33,7 @@ Deve ser atribuído um status para cada defeito.
 * Fila normal
 * Baixa prioridade
 
-## Relatóio de Defeitos
+## Relatório de Defeitos
 
 * Relatório de Densidade
 * Relatório de Prioridade
