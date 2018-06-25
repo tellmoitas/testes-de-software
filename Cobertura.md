@@ -15,13 +15,24 @@ Análise percentual da cobertura de códigos com relação as linhas de código
 
 # Análise de Defeitos
 
-## Status
+## Relatório de Defeitos
+
+### Status
+
+Deve ser atribuído um status para cada defeito.
 
 * Resolver imediatamente
 * Prioridade alta
 * Fila normal
 * Baixa prioridade
 
-## Prioridade
-## Gravidade 
-## Origem
+## Relatóio de Defeitos
+
+* Relatório de Densidade
+* Relatório de Prioridade
+* Relatório de Gravidade 
+* Relatório de Origem de Defeitos
+* Relatório de Distribuição de Defeitos
+  * Relatório de Tempo de Permanência de defeitos
+* Relatório de Tendência de Defeitos
+* Relatório de Resultado e Progresso dos testes
