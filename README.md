@@ -1,3 +1,3 @@
 # testes-de-software
 
-[Cobertura](/cobertura.md)
+[Cobertura](/Cobertura.md)
