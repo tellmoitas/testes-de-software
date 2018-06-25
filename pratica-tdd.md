@@ -1,6 +1,12 @@
 
 
 # Prática TDD
+
+Regras do Jogo: Qualquer número divisível por três é substituído pela palavra fizz e
+qualquer número divisível por 5 pela palavra buzz. Números divisíveis por ambos são
+substituídos por fizzbuzz. Um jogador que comete um erro tem que beber uma xícara de
+café. 
+
 ```java
 public class FizzBuzz implements IFizzBuzz
 {
