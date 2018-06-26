@@ -1,6 +1,6 @@
 # Testabilidade
 
-Testabilidade é um dos recursos de qualidade de uma arquitetura de software
+### Testabilidade é um dos atributos de qualidade de uma arquitetura de software
 
 Testes é um processo que permeia todas as atividades de desenvolvimento de software
 
@@ -8,13 +8,15 @@ Organizar componentes é um dos problemas no desenvolvimento de software
 
 A arquitetura de um sistema, define os subsistemas e como eles interagem.
 
+### Pelo menos 40% do custo de desenvolvimento de um sistema de software é dedicado aos testes
+
 ## Para um sistema ser testável é necessário:
 
-* Controlar os componenentes
+* Controlar os componenentes e entradas
 * Observar a saída 
 * Construir drivers
 
-### Técnicas arquiteturais
+### Técnicas arquiteturais para melhorar a testabilidade
 
 * Modularidade
 * Performace
@@ -25,5 +27,7 @@ A arquitetura de um sistema, define os subsistemas e como eles interagem.
 * Separar a interface da implementação
 * Record-Playback
 * Definição de interfaces específicas para teste
-* Built-in Monitors
+* Built-in Monitors (monitoramento do estado dos componentes)
+
+
 
